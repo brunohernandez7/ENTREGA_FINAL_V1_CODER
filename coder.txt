@@ -1,0 +1,14 @@
+LEER
+
+Entrega Coder.
+Me falto lograr que funcione bien el login de Django y no lo pude resolver.
+Dejo abajo el usuario de admin y el link de youtube probando la pagina.
+Saludos!
+
+
+SUPERUSER
+bruno
+coderblog
+
+https://youtu.be/yZLta1X4L7k
+
